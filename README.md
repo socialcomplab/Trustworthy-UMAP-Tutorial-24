@@ -1,4 +1,4 @@
-This repository contains all the material supporting the tutorial "Tutorial on Trustworthy User Modeling and Recommendation From Technical and Regulatory Perspectives", held at ACM UMAP'24.
+This repository contains all the material supporting the tutorial *Tutorial on Trustworthy User Modeling and Recommendation From Technical and Regulatory Perspectives*, held at ACM UMAP'24.
 
 ## Abstract
 This tutorial provides an interdisciplinary overview about the topics of fairness, non-discrimination, transparency, privacy, and security
