@@ -12,7 +12,7 @@ the social and ethical implications of their research and development, and of re
 ## Tutorial Materials
 
 * [UMAP 2024 Tutorial Slides](UMAPTutorial-Trustworthy-UM-and-RecSys2024.pdf)
-* [UMAP 2024 Proceedings Paper]()
+* [UMAP 2024 Proceedings Paper](UMAP_2024_Tutorial__Trustworthy_User_Modeling_and_Recommendation_From_Technical_and_Regulatory_Perspectives.pdf)
 
 ## Organization
 
