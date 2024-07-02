@@ -11,7 +11,7 @@ the social and ethical implications of their research and development, and of re
 
 ## Tutorial Materials
 
-* [UMAP 2024 Tutorial Slides]()
+* [UMAP 2024 Tutorial Slides](UMAPTutorial-Trustworthy-UM-and-RecSys2024.pdf)
 * [UMAP 2024 Proceedings Paper]()
 
 ## Organization
